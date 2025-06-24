@@ -1,0 +1,602 @@
+[
+  {
+    "Timestamp": 1740412800000,
+    "LongShortAccountRatio": 2.565675833200869,
+    "DateTime": "2025-02-25T00:00:00"
+  },
+  {
+    "Timestamp": 1740499200000,
+    "LongShortAccountRatio": 3.5766382475574087,
+    "DateTime": "2025-02-26T00:00:00"
+  },
+  {
+    "Timestamp": 1740585600000,
+    "LongShortAccountRatio": 3.3638767603468421,
+    "DateTime": "2025-02-27T00:00:00"
+  },
+  {
+    "Timestamp": 1740672000000,
+    "LongShortAccountRatio": 2.3826653306613226,
+    "DateTime": "2025-02-28T00:00:00"
+  },
+  {
+    "Timestamp": 1740758400000,
+    "LongShortAccountRatio": 2.1915141896938013,
+    "DateTime": "2025-03-01T00:00:00"
+  },
+  {
+    "Timestamp": 1740844800000,
+    "LongShortAccountRatio": 1.8448694342149314,
+    "DateTime": "2025-03-02T00:00:00"
+  },
+  {
+    "Timestamp": 1740931200000,
+    "LongShortAccountRatio": 1.9030828785970804,
+    "DateTime": "2025-03-03T00:00:00"
+  },
+  {
+    "Timestamp": 1741017600000,
+    "LongShortAccountRatio": 1.7267452083699666,
+    "DateTime": "2025-03-04T00:00:00"
+  },
+  {
+    "Timestamp": 1741104000000,
+    "LongShortAccountRatio": 2.8318124888173197,
+    "DateTime": "2025-03-05T00:00:00"
+  },
+  {
+    "Timestamp": 1741190400000,
+    "LongShortAccountRatio": 1.2143055459151801,
+    "DateTime": "2025-03-06T00:00:00"
+  },
+  {
+    "Timestamp": 1741276800000,
+    "LongShortAccountRatio": 1.2781788868638721,
+    "DateTime": "2025-03-07T00:00:00"
+  },
+  {
+    "Timestamp": 1741363200000,
+    "LongShortAccountRatio": 1.7476888888888889,
+    "DateTime": "2025-03-08T00:00:00"
+  },
+  {
+    "Timestamp": 1741449600000,
+    "LongShortAccountRatio": 2.5880711728785007,
+    "DateTime": "2025-03-09T00:00:00"
+  },
+  {
+    "Timestamp": 1741536000000,
+    "LongShortAccountRatio": 2.6040258374643233,
+    "DateTime": "2025-03-10T00:00:00"
+  },
+  {
+    "Timestamp": 1741622400000,
+    "LongShortAccountRatio": 3.5026763697600289,
+    "DateTime": "2025-03-11T00:00:00"
+  },
+  {
+    "Timestamp": 1741708800000,
+    "LongShortAccountRatio": 2.020184741703729,
+    "DateTime": "2025-03-12T00:00:00"
+  },
+  {
+    "Timestamp": 1741795200000,
+    "LongShortAccountRatio": 2.45,
+    "DateTime": "2025-03-13T00:00:00"
+  },
+  {
+    "Timestamp": 1741881600000,
+    "LongShortAccountRatio": 2.4009207840903697,
+    "DateTime": "2025-03-14T00:00:00"
+  },
+  {
+    "Timestamp": 1741968000000,
+    "LongShortAccountRatio": 1.0696207649389504,
+    "DateTime": "2025-03-15T00:00:00"
+  },
+  {
+    "Timestamp": 1742054400000,
+    "LongShortAccountRatio": 1.3027670625398657,
+    "DateTime": "2025-03-16T00:00:00"
+  },
+  {
+    "Timestamp": 1742140800000,
+    "LongShortAccountRatio": 1.6695321001088139,
+    "DateTime": "2025-03-17T00:00:00"
+  },
+  {
+    "Timestamp": 1742227200000,
+    "LongShortAccountRatio": 1.6127552530334418,
+    "DateTime": "2025-03-18T00:00:00"
+  },
+  {
+    "Timestamp": 1742313600000,
+    "LongShortAccountRatio": 2.5876634260811264,
+    "DateTime": "2025-03-19T00:00:00"
+  },
+  {
+    "Timestamp": 1742400000000,
+    "LongShortAccountRatio": 1.2393504650796153,
+    "DateTime": "2025-03-20T00:00:00"
+  },
+  {
+    "Timestamp": 1742486400000,
+    "LongShortAccountRatio": 1.2213401675209401,
+    "DateTime": "2025-03-21T00:00:00"
+  },
+  {
+    "Timestamp": 1742572800000,
+    "LongShortAccountRatio": 1.7182841496805598,
+    "DateTime": "2025-03-22T00:00:00"
+  },
+  {
+    "Timestamp": 1742659200000,
+    "LongShortAccountRatio": 1.6248006823154226,
+    "DateTime": "2025-03-23T00:00:00"
+  },
+  {
+    "Timestamp": 1742745600000,
+    "LongShortAccountRatio": 1.3306433168882935,
+    "DateTime": "2025-03-24T00:00:00"
+  },
+  {
+    "Timestamp": 1742832000000,
+    "LongShortAccountRatio": 0.8142305597006087,
+    "DateTime": "2025-03-25T00:00:00"
+  },
+  {
+    "Timestamp": 1742918400000,
+    "LongShortAccountRatio": 0.9390520955738347,
+    "DateTime": "2025-03-26T00:00:00"
+  },
+  {
+    "Timestamp": 1743004800000,
+    "LongShortAccountRatio": 1.1703452670605955,
+    "DateTime": "2025-03-27T00:00:00"
+  },
+  {
+    "Timestamp": 1743091200000,
+    "LongShortAccountRatio": 1.1194724592707525,
+    "DateTime": "2025-03-28T00:00:00"
+  },
+  {
+    "Timestamp": 1743177600000,
+    "LongShortAccountRatio": 1.9603311622067017,
+    "DateTime": "2025-03-29T00:00:00"
+  },
+  {
+    "Timestamp": 1743264000000,
+    "LongShortAccountRatio": 2.1763797761482053,
+    "DateTime": "2025-03-30T00:00:00"
+  },
+  {
+    "Timestamp": 1743350400000,
+    "LongShortAccountRatio": 2.0910178652473491,
+    "DateTime": "2025-03-31T00:00:00"
+  },
+  {
+    "Timestamp": 1743436800000,
+    "LongShortAccountRatio": 1.8953890721815402,
+    "DateTime": "2025-04-01T00:00:00"
+  },
+  {
+    "Timestamp": 1743523200000,
+    "LongShortAccountRatio": 1.3236526750049113,
+    "DateTime": "2025-04-02T00:00:00"
+  },
+  {
+    "Timestamp": 1743609600000,
+    "LongShortAccountRatio": 0.9328593574597744,
+    "DateTime": "2025-04-03T00:00:00"
+  },
+  {
+    "Timestamp": 1743696000000,
+    "LongShortAccountRatio": 2.4128142359476509,
+    "DateTime": "2025-04-04T00:00:00"
+  },
+  {
+    "Timestamp": 1743782400000,
+    "LongShortAccountRatio": 1.787390571698656,
+    "DateTime": "2025-04-05T00:00:00"
+  },
+  {
+    "Timestamp": 1743868800000,
+    "LongShortAccountRatio": 1.8713594191206132,
+    "DateTime": "2025-04-06T00:00:00"
+  },
+  {
+    "Timestamp": 1743955200000,
+    "LongShortAccountRatio": 2.0002066713512173,
+    "DateTime": "2025-04-07T00:00:00"
+  },
+  {
+    "Timestamp": 1744041600000,
+    "LongShortAccountRatio": 2.0091713961407491,
+    "DateTime": "2025-04-08T00:00:00"
+  },
+  {
+    "Timestamp": 1744128000000,
+    "LongShortAccountRatio": 1.7750581846392552,
+    "DateTime": "2025-04-09T00:00:00"
+  },
+  {
+    "Timestamp": 1744214400000,
+    "LongShortAccountRatio": 1.9753587415805547,
+    "DateTime": "2025-04-10T00:00:00"
+  },
+  {
+    "Timestamp": 1744300800000,
+    "LongShortAccountRatio": 1.5304728676416005,
+    "DateTime": "2025-04-11T00:00:00"
+  },
+  {
+    "Timestamp": 1744387200000,
+    "LongShortAccountRatio": 0.9321295143212951,
+    "DateTime": "2025-04-12T00:00:00"
+  },
+  {
+    "Timestamp": 1744473600000,
+    "LongShortAccountRatio": 0.7724098207214342,
+    "DateTime": "2025-04-13T00:00:00"
+  },
+  {
+    "Timestamp": 1744560000000,
+    "LongShortAccountRatio": 0.8288117001828154,
+    "DateTime": "2025-04-14T00:00:00"
+  },
+  {
+    "Timestamp": 1744646400000,
+    "LongShortAccountRatio": 0.9979341766420466,
+    "DateTime": "2025-04-15T00:00:00"
+  },
+  {
+    "Timestamp": 1744732800000,
+    "LongShortAccountRatio": 0.8056786476284261,
+    "DateTime": "2025-04-16T00:00:00"
+  },
+  {
+    "Timestamp": 1744819200000,
+    "LongShortAccountRatio": 0.9762755762755763,
+    "DateTime": "2025-04-17T00:00:00"
+  },
+  {
+    "Timestamp": 1744905600000,
+    "LongShortAccountRatio": 1.0214533238102796,
+    "DateTime": "2025-04-18T00:00:00"
+  },
+  {
+    "Timestamp": 1744992000000,
+    "LongShortAccountRatio": 1.0987167096219931,
+    "DateTime": "2025-04-19T00:00:00"
+  },
+  {
+    "Timestamp": 1745078400000,
+    "LongShortAccountRatio": 0.789044392939918,
+    "DateTime": "2025-04-20T00:00:00"
+  },
+  {
+    "Timestamp": 1745164800000,
+    "LongShortAccountRatio": 1.2327829583368979,
+    "DateTime": "2025-04-21T00:00:00"
+  },
+  {
+    "Timestamp": 1745251200000,
+    "LongShortAccountRatio": 0.533868685318739,
+    "DateTime": "2025-04-22T00:00:00"
+  },
+  {
+    "Timestamp": 1745337600000,
+    "LongShortAccountRatio": 0.5172479380284613,
+    "DateTime": "2025-04-23T00:00:00"
+  },
+  {
+    "Timestamp": 1745424000000,
+    "LongShortAccountRatio": 0.5923917224401877,
+    "DateTime": "2025-04-24T00:00:00"
+  },
+  {
+    "Timestamp": 1745510400000,
+    "LongShortAccountRatio": 0.7065036131183991,
+    "DateTime": "2025-04-25T00:00:00"
+  },
+  {
+    "Timestamp": 1745596800000,
+    "LongShortAccountRatio": 0.5105688502557121,
+    "DateTime": "2025-04-26T00:00:00"
+  },
+  {
+    "Timestamp": 1745683200000,
+    "LongShortAccountRatio": 0.6196083570465778,
+    "DateTime": "2025-04-27T00:00:00"
+  },
+  {
+    "Timestamp": 1745769600000,
+    "LongShortAccountRatio": 0.672374648862893,
+    "DateTime": "2025-04-28T00:00:00"
+  },
+  {
+    "Timestamp": 1745856000000,
+    "LongShortAccountRatio": 0.6268104716908063,
+    "DateTime": "2025-04-29T00:00:00"
+  },
+  {
+    "Timestamp": 1745942400000,
+    "LongShortAccountRatio": 0.6121838909725575,
+    "DateTime": "2025-04-30T00:00:00"
+  },
+  {
+    "Timestamp": 1746028800000,
+    "LongShortAccountRatio": 0.8067156872956027,
+    "DateTime": "2025-05-01T00:00:00"
+  },
+  {
+    "Timestamp": 1746115200000,
+    "LongShortAccountRatio": 0.4844938749194068,
+    "DateTime": "2025-05-02T00:00:00"
+  },
+  {
+    "Timestamp": 1746201600000,
+    "LongShortAccountRatio": 0.4923999684318523,
+    "DateTime": "2025-05-03T00:00:00"
+  },
+  {
+    "Timestamp": 1746288000000,
+    "LongShortAccountRatio": 0.7235113634275846,
+    "DateTime": "2025-05-04T00:00:00"
+  },
+  {
+    "Timestamp": 1746374400000,
+    "LongShortAccountRatio": 0.7761500203200898,
+    "DateTime": "2025-05-05T00:00:00"
+  },
+  {
+    "Timestamp": 1746460800000,
+    "LongShortAccountRatio": 0.9293011402333194,
+    "DateTime": "2025-05-06T00:00:00"
+  },
+  {
+    "Timestamp": 1746547200000,
+    "LongShortAccountRatio": 0.8081845206721343,
+    "DateTime": "2025-05-07T00:00:00"
+  },
+  {
+    "Timestamp": 1746633600000,
+    "LongShortAccountRatio": 0.5307199782031197,
+    "DateTime": "2025-05-08T00:00:00"
+  },
+  {
+    "Timestamp": 1746720000000,
+    "LongShortAccountRatio": 0.4774776316014576,
+    "DateTime": "2025-05-09T00:00:00"
+  },
+  {
+    "Timestamp": 1746806400000,
+    "LongShortAccountRatio": 0.5762979233226837,
+    "DateTime": "2025-05-10T00:00:00"
+  },
+  {
+    "Timestamp": 1746892800000,
+    "LongShortAccountRatio": 0.5465313347393793,
+    "DateTime": "2025-05-11T00:00:00"
+  },
+  {
+    "Timestamp": 1746979200000,
+    "LongShortAccountRatio": 0.5136887334119168,
+    "DateTime": "2025-05-12T00:00:00"
+  },
+  {
+    "Timestamp": 1747065600000,
+    "LongShortAccountRatio": 0.7435919343814081,
+    "DateTime": "2025-05-13T00:00:00"
+  },
+  {
+    "Timestamp": 1747152000000,
+    "LongShortAccountRatio": 0.596217251386942,
+    "DateTime": "2025-05-14T00:00:00"
+  },
+  {
+    "Timestamp": 1747238400000,
+    "LongShortAccountRatio": 0.6835986217684486,
+    "DateTime": "2025-05-15T00:00:00"
+  },
+  {
+    "Timestamp": 1747324800000,
+    "LongShortAccountRatio": 0.7723085909417685,
+    "DateTime": "2025-05-16T00:00:00"
+  },
+  {
+    "Timestamp": 1747411200000,
+    "LongShortAccountRatio": 0.5754765683256534,
+    "DateTime": "2025-05-17T00:00:00"
+  },
+  {
+    "Timestamp": 1747497600000,
+    "LongShortAccountRatio": 0.7067842490377702,
+    "DateTime": "2025-05-18T00:00:00"
+  },
+  {
+    "Timestamp": 1747584000000,
+    "LongShortAccountRatio": 0.5308795323773861,
+    "DateTime": "2025-05-19T00:00:00"
+  },
+  {
+    "Timestamp": 1747670400000,
+    "LongShortAccountRatio": 0.7221923696937131,
+    "DateTime": "2025-05-20T00:00:00"
+  },
+  {
+    "Timestamp": 1747756800000,
+    "LongShortAccountRatio": 0.6362976335308661,
+    "DateTime": "2025-05-21T00:00:00"
+  },
+  {
+    "Timestamp": 1747843200000,
+    "LongShortAccountRatio": 0.3994496342964733,
+    "DateTime": "2025-05-22T00:00:00"
+  },
+  {
+    "Timestamp": 1747929600000,
+    "LongShortAccountRatio": 0.4202561621879197,
+    "DateTime": "2025-05-23T00:00:00"
+  },
+  {
+    "Timestamp": 1748016000000,
+    "LongShortAccountRatio": 0.5580458883805411,
+    "DateTime": "2025-05-24T00:00:00"
+  },
+  {
+    "Timestamp": 1748102400000,
+    "LongShortAccountRatio": 0.6089547543733944,
+    "DateTime": "2025-05-25T00:00:00"
+  },
+  {
+    "Timestamp": 1748188800000,
+    "LongShortAccountRatio": 0.7933439421622365,
+    "DateTime": "2025-05-26T00:00:00"
+  },
+  {
+    "Timestamp": 1748275200000,
+    "LongShortAccountRatio": 0.4824941847377504,
+    "DateTime": "2025-05-27T00:00:00"
+  },
+  {
+    "Timestamp": 1748361600000,
+    "LongShortAccountRatio": 0.5050826439538564,
+    "DateTime": "2025-05-28T00:00:00"
+  },
+  {
+    "Timestamp": 1748448000000,
+    "LongShortAccountRatio": 1.0047119120443085,
+    "DateTime": "2025-05-29T00:00:00"
+  },
+  {
+    "Timestamp": 1748534400000,
+    "LongShortAccountRatio": 0.9286109103278201,
+    "DateTime": "2025-05-30T00:00:00"
+  },
+  {
+    "Timestamp": 1748620800000,
+    "LongShortAccountRatio": 1.0739592856028005,
+    "DateTime": "2025-05-31T00:00:00"
+  },
+  {
+    "Timestamp": 1748707200000,
+    "LongShortAccountRatio": 1.1120074023108496,
+    "DateTime": "2025-06-01T00:00:00"
+  },
+  {
+    "Timestamp": 1748793600000,
+    "LongShortAccountRatio": 1.0495309307077838,
+    "DateTime": "2025-06-02T00:00:00"
+  },
+  {
+    "Timestamp": 1748880000000,
+    "LongShortAccountRatio": 1.2229609373039966,
+    "DateTime": "2025-06-03T00:00:00"
+  },
+  {
+    "Timestamp": 1748966400000,
+    "LongShortAccountRatio": 0.7133439418049557,
+    "DateTime": "2025-06-04T00:00:00"
+  },
+  {
+    "Timestamp": 1749052800000,
+    "LongShortAccountRatio": 1.0490909516344151,
+    "DateTime": "2025-06-05T00:00:00"
+  },
+  {
+    "Timestamp": 1749139200000,
+    "LongShortAccountRatio": 1.1178606001936108,
+    "DateTime": "2025-06-06T00:00:00"
+  },
+  {
+    "Timestamp": 1749225600000,
+    "LongShortAccountRatio": 0.689096926713948,
+    "DateTime": "2025-06-07T00:00:00"
+  },
+  {
+    "Timestamp": 1749312000000,
+    "LongShortAccountRatio": 0.5998135312950779,
+    "DateTime": "2025-06-08T00:00:00"
+  },
+  {
+    "Timestamp": 1749398400000,
+    "LongShortAccountRatio": 0.5687386344850388,
+    "DateTime": "2025-06-09T00:00:00"
+  },
+  {
+    "Timestamp": 1749484800000,
+    "LongShortAccountRatio": 0.4890095681406775,
+    "DateTime": "2025-06-10T00:00:00"
+  },
+  {
+    "Timestamp": 1749571200000,
+    "LongShortAccountRatio": 0.5071949635255321,
+    "DateTime": "2025-06-11T00:00:00"
+  },
+  {
+    "Timestamp": 1749657600000,
+    "LongShortAccountRatio": 0.4825900348522009,
+    "DateTime": "2025-06-12T00:00:00"
+  },
+  {
+    "Timestamp": 1749744000000,
+    "LongShortAccountRatio": 0.7943755669791352,
+    "DateTime": "2025-06-13T00:00:00"
+  },
+  {
+    "Timestamp": 1749830400000,
+    "LongShortAccountRatio": 0.9101202287848722,
+    "DateTime": "2025-06-14T00:00:00"
+  },
+  {
+    "Timestamp": 1749916800000,
+    "LongShortAccountRatio": 0.9596583041937528,
+    "DateTime": "2025-06-15T00:00:00"
+  },
+  {
+    "Timestamp": 1750003200000,
+    "LongShortAccountRatio": 0.9033999169626793,
+    "DateTime": "2025-06-16T00:00:00"
+  },
+  {
+    "Timestamp": 1750089600000,
+    "LongShortAccountRatio": 0.6690794110364007,
+    "DateTime": "2025-06-17T00:00:00"
+  },
+  {
+    "Timestamp": 1750176000000,
+    "LongShortAccountRatio": 1.1161245364724621,
+    "DateTime": "2025-06-18T00:00:00"
+  },
+  {
+    "Timestamp": 1750262400000,
+    "LongShortAccountRatio": 1.0851754871846518,
+    "DateTime": "2025-06-19T00:00:00"
+  },
+  {
+    "Timestamp": 1750348800000,
+    "LongShortAccountRatio": 1.1158318315352902,
+    "DateTime": "2025-06-20T00:00:00"
+  },
+  {
+    "Timestamp": 1750435200000,
+    "LongShortAccountRatio": 1.1025995575221239,
+    "DateTime": "2025-06-21T00:00:00"
+  },
+  {
+    "Timestamp": 1750521600000,
+    "LongShortAccountRatio": 1.1966665810626878,
+    "DateTime": "2025-06-22T00:00:00"
+  },
+  {
+    "Timestamp": 1750608000000,
+    "LongShortAccountRatio": 1.3977123360460889,
+    "DateTime": "2025-06-23T00:00:00"
+  },
+  {
+    "Timestamp": 1750694400000,
+    "LongShortAccountRatio": 0.99209284219746,
+    "DateTime": "2025-06-24T00:00:00"
+  }
+]
